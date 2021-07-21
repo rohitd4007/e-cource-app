@@ -16,7 +16,10 @@ function App() {
     <div className="App">
       <Router onUpdate={logPageView}>
         <Route exact path={process.env.PUBLIC_URL + "/"} component={account} />
-        <Route path="/dash-board" component={dashboard} />
+        <Route
+          path={process.env.PUBLIC_URL + "/dash-board"}
+          component={dashboard}
+        />
         {console.log(process.env)}
       </Router>
     </div>
