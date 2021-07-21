@@ -1,0 +1,2 @@
+(this["webpackJsonpe-cource"]=this["webpackJsonpe-cource"]||[]).push([[0],{10:function(e,c,t){"use strict";t.r(c);var n=t(1),r=t.n(n),o=t(3),s=t.n(o),i=(t(8),t(0));var u=function(){return Object(i.jsx)("div",{className:"App",children:"Hello"})};s.a.render(Object(i.jsx)(r.a.StrictMode,{children:Object(i.jsx)(u,{})}),document.getElementById("root"))},8:function(e,c,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.3216ca02.chunk.js.map
