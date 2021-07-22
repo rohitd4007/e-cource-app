@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/e-cource-app/static/css/main.e1ce61ea.chunk.css",
-    "main.js": "/e-cource-app/static/js/main.4f120c88.chunk.js",
-    "main.js.map": "/e-cource-app/static/js/main.4f120c88.chunk.js.map",
+    "main.css": "/e-cource-app/static/css/main.e358b366.chunk.css",
+    "main.js": "/e-cource-app/static/js/main.df826b90.chunk.js",
+    "main.js.map": "/e-cource-app/static/js/main.df826b90.chunk.js.map",
     "runtime-main.js": "/e-cource-app/static/js/runtime-main.63807f53.js",
     "runtime-main.js.map": "/e-cource-app/static/js/runtime-main.63807f53.js.map",
-    "static/js/2.5c3aca0c.chunk.js": "/e-cource-app/static/js/2.5c3aca0c.chunk.js",
-    "static/js/2.5c3aca0c.chunk.js.map": "/e-cource-app/static/js/2.5c3aca0c.chunk.js.map",
+    "static/js/2.4b79849c.chunk.js": "/e-cource-app/static/js/2.4b79849c.chunk.js",
+    "static/js/2.4b79849c.chunk.js.map": "/e-cource-app/static/js/2.4b79849c.chunk.js.map",
     "index.html": "/e-cource-app/index.html",
-    "static/css/main.e1ce61ea.chunk.css.map": "/e-cource-app/static/css/main.e1ce61ea.chunk.css.map",
-    "static/js/2.5c3aca0c.chunk.js.LICENSE.txt": "/e-cource-app/static/js/2.5c3aca0c.chunk.js.LICENSE.txt"
+    "static/css/main.e358b366.chunk.css.map": "/e-cource-app/static/css/main.e358b366.chunk.css.map",
+    "static/js/2.4b79849c.chunk.js.LICENSE.txt": "/e-cource-app/static/js/2.4b79849c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.63807f53.js",
-    "static/js/2.5c3aca0c.chunk.js",
-    "static/css/main.e1ce61ea.chunk.css",
-    "static/js/main.4f120c88.chunk.js"
+    "static/js/2.4b79849c.chunk.js",
+    "static/css/main.e358b366.chunk.css",
+    "static/js/main.df826b90.chunk.js"
   ]
 }
