@@ -1,0 +1,48 @@
+.chessboard {
+    border: 2px solid black;
+    /* box-sizing: content-box; */
+    display: flex;
+    flex-direction: column;
+    height: 40vw;
+    margin: 0 auto;
+    width: 50vw;
+}
+
+.chessboard {
+    cursor: pointer;
+}
+
+.row {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+}
+
+.white-box {
+    background-color: white;
+    flex: 1;
+}
+
+.black-box {
+    background-color: #020202;
+    flex: 1;
+}
+
+@media screen and (max-width: 520px) {
+    .chessboard {
+        margin: 0;
+        width: 100%;
+        height: auto;
+        min-height: 600px;
+    }
+}
+
+@media screen and (max-height: 550px) {
+    .chessboard {
+        margin: 0;
+        width: 100%;
+        height: auto;
+        min-height: 400px;
+        max-height: auto;
+    }
+}

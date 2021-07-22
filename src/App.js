@@ -14,7 +14,7 @@ const logPageView = () => {
 function App() {
   return (
     <div className="App">
-      <Router onUpdate={logPageView} basename={process.env.PUBLIC_URL}>
+      <Router onUpdate={logPageView}>
         <Route exact path={process.env.PUBLIC_URL + "/"} component={account} />
         <Route
           path={process.env.PUBLIC_URL + "/dash-board"}
